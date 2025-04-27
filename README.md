@@ -2,19 +2,7 @@
 
 A colorful and cheerful ZSH theme with rainbow colors and a cute nyan cat spirit!
 
-```
-⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣾⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⢀⠀⠈⡇⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣿⠀⠁⠀⠘⠁⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠈⠀⠀⡇⠀⠀⠀⠀
-⣀⣀⣀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠄⠀⠀⠸⢰⡏⠉⠳⣄⠰⠀⠀⢰⣷⠶⠛⣧⠀
-⢻⡀⠈⠙⠲⡄⣿⠀⠀⠀⠀⠀⠀⠀⠠⠀⢸⠀⠀⠀⠈⠓⠒⠒⠛⠁⠀⠀⣿⠀
-⠀⠻⣄⠀⠀⠙⣿⠀⠀⠀⠈⠁⠀⢠⠄⣰⠟⠀⢀⡔⢠⠀⠀⠀⠀⣠⠠⡄⠘⢧
-⠀⠀⠈⠛⢦⣀⣿⠀⠀⢠⡆⠀⠀⠈⠀⣯⠀⠀⠈⠛⠛⠀⠠⢦⠄⠙⠛⠃⠀⢸
-⠀⠀⠀⠀⠀⠉⣿⠀⠀⠀⢠⠀⠀⢠⠀⠹⣆⠀⠀⠀⠢⢤⠠⠞⠤⡠⠄⠀⢀⡾
-⠀⠀⠀⠀⠀⢀⡿⠦⢤⣤⣤⣤⣤⣤⣤⣤⡼⣷⠶⠤⢤⣤⣤⡤⢤⡤⠶⠖⠋⠀
-⠀⠀⠀⠀⠀⠸⣤⡴⠋⠸⣇⣠⠼⠁⠀⠀⠀⠹⣄⣠⠞⠀⢾⡀⣠⠃⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀
-```
+![Screenshot](./nyan-zsh-demo.png)
 
 ## Features
 
@@ -29,7 +17,7 @@ A colorful and cheerful ZSH theme with rainbow colors and a cute nyan cat spirit
 ### Prerequisites
 
 - [Oh My Zsh](https://ohmyz.sh/) installed
-- For the nyan-mommy theme: [mommy](https://github.com/FredrickSmith/mommy) utility installed
+- For the nyan-mommy theme: [mommy](https://github.com/FWDekker/mommy) utility installed
 
 ### Option 1: Manual Installation
 
@@ -98,21 +86,6 @@ You can customize the themes by editing the theme files:
 
 - **nyan.zsh-theme**: Just requires Oh My Zsh
 - **nyan-mommy.zsh-theme**: Requires the [mommy](https://github.com/FWDekker/mommy) utility
-
-You can install mommy with:
-```bash
-pip install mommy-cli
-# OR
-cargo install mommy
-```
-
-## Screenshots
-
-[Add screenshots showing both themes in action]
-
-## License
-
-This project is released under the MIT License. See the LICENSE file for details.
 
 ## Credits
 
